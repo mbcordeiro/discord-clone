@@ -33,7 +33,7 @@ const UserList: React.FC = () => {
       <UserRow nickname="Flash" />
       <UserRow nickname="Flash" />
       <UserRow nickname="Flash" />
-      <UserRow nickname="Flash" />
+      <UserRow nickname="Flash" />  
       <UserRow nickname="Flash" />
       <UserRow nickname="Flash" />
       <UserRow nickname="Flash" />
